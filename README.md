@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Molly! 
-- 👀 My background is in marketing and communications, but I'm interested in transitioning careers to become a #DataAnalyst
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on beginner/intermediate SQL and Python projects to gain some experience in the industry! 
+- 👀 My background is in marketing and communications, but I'm interested in transitioning careers to become a #DataAnalyst. 
+- 🌱 I’ve recently learned SQL and Python and am working on advancing my skills in both 
+- 💞️ I’m looking to collaborate on intermediate SQL and Python projects to gain some experience in the industry! 
 - 📫 How to reach me: marcottmp@gmail.com
 
 <!---
